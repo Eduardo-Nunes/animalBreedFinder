@@ -1,0 +1,2 @@
+json_key_file("api-5678695723047753675-300521-fdab6b67d8c9.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.nunes.eduardo.animalbreedfinder") # e.g. com.krausefx.app
